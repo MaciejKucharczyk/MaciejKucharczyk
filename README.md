@@ -6,6 +6,6 @@ What I am working on?
 - Images processing
 - Web development with Python and Java
 
-You can reach me here:
-👉 maciej.kucharczyk.work@gmail.com
+You can reach me here:\
+👉 maciej.kucharczyk.work@gmail.com\
 👉 www.linkedin.com/in/kucharczykmaciej
