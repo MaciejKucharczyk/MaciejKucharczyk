@@ -1,6 +1,6 @@
 Hello, I'm Maciej :wave:
 
-What am I working on?
+What I am working on?
 - AI and ML
 - Web development with Python and Java
 
